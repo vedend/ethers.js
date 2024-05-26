@@ -24,7 +24,7 @@ in [TypeScript](https://www.typescriptlang.org).
 - **Small** (~144kb compressed; 460kb uncompressed)
 - **Tree-shaking** focused; include only what you need during bundling
 - **Complete** functionality for all your Ethereum desires
-- Extensive [documentation](https://docs.ethers.org/v6/)
+- Extensive Complete [documentation](https://docs.ethers.org/v6/)
 - Large collection of **test cases** which are maintained and added to
 - Fully written in **TypeScript**, with strict types for security and safety
 - **MIT License** (including ALL dependencies); completely open source to do with as you please
